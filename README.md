@@ -1,1 +1,1 @@
-Making AI benefit everyone.
+AI for everyone.
