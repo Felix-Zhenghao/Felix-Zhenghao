@@ -1,4 +1,4 @@
-Currently learning LSM-based Storage Engine. Try to understand how to integrate modern tech stack to robotics. Reading Code of Dora-rs, InfluxDB. Learning from LeRobot, Mini-LSM.
+Currently learning LSM-based Storage Engine. Try to understand how to integrate modern tech stack to robotics. Reading Code of Dora-rs, InfluxDB, Lance/LanceDB. Learning from LeRobot, Mini-LSM.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Felix-Zhenghao&column=7)](https://github.com/Felix-Zhenghao)
 
